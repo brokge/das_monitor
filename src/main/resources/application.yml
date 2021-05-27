@@ -1,0 +1,11 @@
+server:
+  port: 8099
+spring:
+  application:
+    name: SpringBootMonitorAdmin
+  boot:
+    admin:
+      ui:
+        title: 智控2.0 服务监控
+        brand: <img src="assets/img/head-logo.png"><span>智控2.0 监控平台</span>
+        available-languages: zh
